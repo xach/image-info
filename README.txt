@@ -11,5 +11,7 @@ Only supported function:
 
   (image-info:image-dimensions "image-file.png") => WIDTH, HEIGHT
 
+Works for PNG, GIF, BMP, and JPEG files.
+
 For any questions or comments, please email me, Zach Beane
 <xach@xach.com>.
